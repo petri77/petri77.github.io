@@ -24,26 +24,24 @@ body{
 
 .keyword {
 	color: var(--keyword-color);
-	font-size: 62px;
+	font-size: 58px;
 }
 .datatype {
 	color: var(--datatype-color);
-	font-size: 62px;
+	font-size: 58px;
 }
 .string {
 	color: var(--string-color);
-	font-size: 62px;
+	font-size: 58;
 }
 .declaration{
 	color:var(--declaration-color);
-	font-size: 62px;
+	font-size: 58px;
 }
 .comment {
 	color:var(--comment-color);
 	font-style:italic;
-	font-size: 24px;
 }
-
 
 .navbar {
 	position:fixed;
@@ -73,13 +71,13 @@ body{
 }
 .typewriter p {
 	display:inline-block;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .20em; /* Adjust as needed */
-  -webkit-animation: 
-    typing 3.5s steps(40, end),
+	overflow: hidden; /* Ensures the content is not revealed until the animation */
+	border-right: .15em solid orange; /* The typwriter cursor */
+	white-space: nowrap; /* Keeps the content on a single line */
+	margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+	letter-spacing: .20em; /* Adjust as needed */
+	-webkit-animation: 
+	typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
           animation: 
     typing 3.5s steps(40, end),
