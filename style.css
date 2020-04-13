@@ -10,6 +10,7 @@
 
 body{
 	font-family: "Exo", sans-serif;
+	font-size: 22px;
 }
 
 .darcula {
@@ -23,19 +24,24 @@ body{
 
 .keyword {
 	color: var(--keyword-color);
+	font-size: 62px;
 }
 .datatype {
 	color: var(--datatype-color);
+	font-size: 62px;
 }
 .string {
 	color: var(--string-color);
+	font-size: 62px;
 }
 .declaration{
 	color:var(--declaration-color);
+	font-size: 62px;
 }
 .comment {
 	color:var(--comment-color);
 	font-style:italic;
+	font-size: 28px;
 }
 
 
@@ -48,6 +54,7 @@ body{
 
 .nav-link{
 	margin:.2em;
+	font-size:42px;
 }
 
 .darknav {
@@ -116,20 +123,18 @@ body{
 
 /* Add a hover effect if you want */
 .fab:focus {
-  opacity: 0.7;
+	opacity: 0.7;
 	color:black;
 }
 
-
 .fa-linkedin-in {
-  background: #2867B2;
-  color: white;
-	
+	background: #2867B2;
+	color: white;
 }
 
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+	background: #55ACEE;
+	color: white;
 }
 
 .fa-github {
@@ -143,6 +148,7 @@ body{
 	-webkit-box-align:center;
 	        align-items:center;
 	justify-content:space-around;
+	font-size: 28px;
 }
 
 @media only screen and (max-width: 600px) {
