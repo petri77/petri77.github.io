@@ -5,6 +5,6 @@
 # My portfolio pages
 Published on 
 https://pj-laakkonen.github.io/
-and
+\n
 https://laakkonen.io/portfolio/
 
