@@ -3,7 +3,6 @@
 # petri@laakkonen.io
 
 # My portfolio pages
-Published on 
 https://pj-laakkonen.github.io/
 #
 https://laakkonen.io/portfolio/
